@@ -1,0 +1,96 @@
+.img-fluid{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+.text-carousel {
+    font-size: 80px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+.text-parrafo {
+    font-size: 25px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+#band{
+    padding: 20px;
+    width: 100%;
+    background: #138496;
+}
+#band2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 100%;
+    background: #0c5460;
+}
+#band3{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 40px;
+    padding-left: 40px;
+    width: 100%;
+    background: #005cbf;
+}
+.icons{
+    background: #ffffff;
+    width: 50%;
+}
+.rounded-circle{
+    background: white;
+    width: 50%;
+
+}
+footer{
+    padding: 20px;
+    color:white;
+    background: #1b1e21;
+    font-size: large;
+
+}
+.text-band3{
+    color: white;
+}
+.normas{
+    background: #0c5460;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.marcas{
+    background: indigo;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.productos{
+    background: steelblue;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.xpadding{
+    text-align: center;
+    padding: 30px;
+}
+.btn-bot{
+    position:absolute;
+    margin-left:-50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    left:50%;
+    width:100px;
+    bottom:0px;
+}
+.resize-card{
+}
+.card-d{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+
+}
+#searchbar{
+    margin-top: 86px;
+    margin-bottom: 20px;
+}
+.extended{
+    margin-bottom: 20px;
+}
