@@ -41,6 +41,12 @@
     width: 50%;
 
 }
+.table{
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 80%;
+    float: none;
+}
 footer{
     padding: 20px;
     color:white;
@@ -93,4 +99,16 @@ footer{
 }
 .extended{
     margin-bottom: 20px;
+}
+.login-bg{
+    color: white;
+    background: #0c5460;
+    padding: 50px;
+}
+.login-d{
+    margin-top: 40px;
+}
+.help-box{
+    border: 2px solid #0c5460;
+    border-radius: 5px;
 }
